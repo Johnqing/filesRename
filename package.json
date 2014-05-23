@@ -1,0 +1,26 @@
+{
+	"name": "filesrename",
+	"version": "0.0.1",
+	"readmeFilename": "README.md",
+	"description": "批量重命名工具",
+	"homepage": "https://github.com/Johnqing/filesRename",
+	"repository": "https://github.com/Johnqing/filesRename",
+	"keywords": [
+		"文件重命名",
+		"批量"
+	],
+	"main": "./index.js",
+	"dependencies": {
+
+	},
+	"devDependencies": {
+
+	},
+	"author": {
+		"name": "Liu Qing",
+		"email": "csssnow@gmail.com",
+		"url": "http://liuqing.pw/"
+	},
+	"optionalDependencies": {},
+	"license": "BSD"
+}
